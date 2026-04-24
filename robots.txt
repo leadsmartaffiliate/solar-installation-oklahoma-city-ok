@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-installation-oklahoma-city-ok.netlify.app/sitemap.xml
